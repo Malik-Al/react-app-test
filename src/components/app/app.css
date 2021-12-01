@@ -1,0 +1,15 @@
+.btn-click{
+    width: 300px;
+    height: 40px;
+    background-color: #04284d;
+    color: white;
+    border: 1px solid white ;
+    margin-bottom: 20px;
+}
+.app{
+    overflow-x: hidden;
+    background: url('img/got.jpeg') center center no-repeat;
+    background-size: cover;
+    font-size: 16px;
+    height: 100%;
+}
